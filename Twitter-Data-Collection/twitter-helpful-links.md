@@ -60,3 +60,6 @@
 	2. every person will run their list of a particular query for 7 days.
 
 	3. keep in mind the path of csv file (change if needed for your system). DO NOT track/commit this csv file (see .gitignore for this).
+
+![why](/Twitter-Data-Collection/Operator-Precedence/why.png)
+![why_no_but_why](/Twitter-Data-Collection/Operator-Precedence/why_no_but_why.png)
