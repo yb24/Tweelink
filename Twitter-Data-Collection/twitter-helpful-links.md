@@ -42,6 +42,7 @@ Query building tips:
 	https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
 
 Note:
+	
 	1. context annotations are delivered as a context_annotations field in the payload, and are semantically classified based on the Tweet text and result in domain and entity pairings
 
 	2. context type, context name
