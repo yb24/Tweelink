@@ -52,3 +52,11 @@ Note:
 	4. Important note: Retweets can not have a Place attached to them, so if you use an operator such as has:geo, you will not match any Retweets. has:geo is not available in Sandbox mode. Try -is:retweet
 
 	5. Note that the “coordinates” attributes is formatted as [LONGITUDE, latitude], while the “geo” attribute is formatted as [latitude, LONGITUDE].
+
+How to collect twitter dataset:
+
+	1. for any given topic, set start_time and end_time differing by 1 day for 7 days for 1 month.
+
+	2. every person will run their list of a particular query for 7 days.
+
+	3. keep in mind the path of csv file (change if needed for your system). DO NOT track/commit this csv file (see .gitignore for this).
