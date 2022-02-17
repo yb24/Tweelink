@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Twitter-Dataset
+/Twitter-Data-Collection/Twitter-Dataset
