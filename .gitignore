@@ -130,3 +130,6 @@ dmypy.json
 
 # Twitter-Dataset
 /Twitter-Data-Collection/Twitter-Dataset
+
+# csv files
+*.csv
