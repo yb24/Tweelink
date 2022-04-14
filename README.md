@@ -22,6 +22,14 @@ Link to dataset, pickled models : [click here](https://drive.google.com/drive/fo
 ## Repository Description
 - ### Baseline Results
   Code files for baseline models
+- ### EDA
+  Code for Exploratory Data Analysis
+- ### Miscellaneous
+  Heplful Links
+- ### Preprocessing
+  Code for preprocessing Tweets and Articles Dataset
+- ### Reports
+  Proposal and Mid-Report
 - ### Twitter-Data-Collection
   - #### Operator Precedence
     Operator Precedence of Twitter API v2
@@ -29,8 +37,6 @@ Link to dataset, pickled models : [click here](https://drive.google.com/drive/fo
     Sample codes for Twitter API v2
 - ### Web
   Code for frontend, backend, db
-- ### EDA
-  Code for Exploratory Data Analysis
 
 ## Contact
 For further queries feel free to reach out to following contributors.  
