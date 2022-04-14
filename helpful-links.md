@@ -1,3 +1,6 @@
+- Gensim Documentation
+	- https://radimrehurek.com/gensim//auto_examples/index.html
+
 - Soft Cosine Similarity:
 	- https://radimrehurek.com/gensim//auto_examples/tutorials/run_scm.html#sphx-glr-auto-examples-tutorials-run-scm-py
 
