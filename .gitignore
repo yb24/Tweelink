@@ -136,3 +136,7 @@ Extra/
 
 # csv files
 *.csv
+
+#.env in frontend
+/Web/frontend/.env
+
