@@ -1,6 +1,6 @@
 # Tweelink
 
-by **Amisha Aggarwal**, **Aryan Behal**, **Harman Singh**, **Mayank Gupta**, **Yash Bhargava** and **Yash Tanwar** Information Retrieval (CSE508) under the guidance of **Dr. Rajiv Ratn Shah** from **Indraprastha Institute of Information Technology, Delhi**.
+By **Amisha Aggarwal**, **Aryan Behal**, **Harman Singh**, **Mayank Gupta**, **Yash Bhargava** and **Yash Tanwar** Information Retrieval (CSE508) under the guidance of **Dr. Rajiv Ratn Shah** from **Indraprastha Institute of Information Technology, Delhi**.
 
 ## Introduction
 - ### Motivation and Problem Statement
