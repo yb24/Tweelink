@@ -52,12 +52,12 @@ Link to dataset, pickled models : [click here](https://drive.google.com/drive/fo
   Code for frontend, backend, db
 
 ## How to run?
-## Database
+### Database
 Go to the Web folder  
 Make a folder 'db'  
 Add the folder Tweelink_Articles_Processed and the file twitter_base_preprocessed.pkl in the folder 'db' from the drive link of the dataset provided.
 
-## Backend
+### Backend
 
 Go to backend folder
 
@@ -72,7 +72,7 @@ Start the backend in development mode by running:
 uvicorn main:app --reload --host 0.0.0.0
 ```
 
-## Frontend
+### Frontend
 Go to frontend folder
 ```
 cd frontend
