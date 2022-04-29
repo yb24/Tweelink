@@ -139,4 +139,7 @@ Extra/
 
 #.env in frontend
 /Web/frontend/.env
-
+/Web/db/
+/Web/frontend/node_modules/
+*.env
+.env
