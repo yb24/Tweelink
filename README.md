@@ -13,23 +13,36 @@ By **Amisha Aggarwal**, **Aryan Behal**, **Harman Singh**, **Mayank Gupta**, **Y
 ## Dataset and Models
 Link to dataset, pickled models : [click here](https://drive.google.com/drive/folders/1mPMliffHTBokYxBhK-4xPJ5c29NxIJAT?usp=sharing)
 
-## Models
+## Models/Similarity Metrics
 - Jaccard Similarity Ranked Retrieval
 - TF-IDF (Weighing Scheme: Binary, Raw Count, Term Frequency, Log Normalization, Double Normalization) Ranked Retrieval
 - Cosine Similarity (Count Vectorization & TF-IDF Vectorization) Ranked Retrieval
 - Binary Independence Model
+- Okapi BM25 Ranked Retrieval
+- Soft Cosine Similarity Ranked Retrieval
+
+## Keyword Extraction Methods
+- KECNW (Keyword Extraction using Collective Node Weight)
+- YAKE (Yet Another Keyword Extractor)
+- RAKE (Rapid Automatic Keyword Extraction)
+- TextRank
+- KeyBERT
 
 ## Repository Description
 - ### Baseline Results
   Code files for baseline models
 - ### EDA
   Code for Exploratory Data Analysis
+- ### Final Results
+  Code for final models
 - ### Miscellaneous
   Heplful Links
 - ### Preprocessing
   Code for preprocessing Tweets and Articles Dataset
+- ### Python Files
+  All python files
 - ### Reports
-  Proposal and Mid-Report
+  Proposal, Mid Report and Final Report
 - ### Twitter-Data-Collection
   - #### Operator Precedence
     Operator Precedence of Twitter API v2
@@ -37,6 +50,40 @@ Link to dataset, pickled models : [click here](https://drive.google.com/drive/fo
     Sample codes for Twitter API v2
 - ### Web
   Code for frontend, backend, db
+
+## How to run?
+## Database
+Go to the Web folder  
+Make a folder 'db'  
+Add the folder Tweelink_Articles_Processed and the file twitter_base_preprocessed.pkl in the folder 'db' from the drive link of the dataset provided.
+
+## Backend
+
+Go to backend folder
+
+```
+cd backend
+```
+
+
+
+Start the backend in development mode by running:
+```
+uvicorn main:app --reload --host 0.0.0.0
+```
+
+## Frontend
+Go to frontend folder
+```
+cd frontend
+
+```
+
+To run the frontend in development mode use:
+```
+npm install
+npm start
+```
 
 ## Contact
 For further queries feel free to reach out to following contributors.  
